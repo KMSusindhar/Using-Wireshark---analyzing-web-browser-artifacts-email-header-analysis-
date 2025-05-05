@@ -53,6 +53,8 @@ Look for SMTP packets to see sender/receiver email addresses. Use "Follow TCP St
 Perform activities like opening a website or sending an email through a client (e.g., Gmail via browser or Thunderbird).
 ![image](https://github.com/user-attachments/assets/1a2e75be-f75b-4c55-b980-c0e42f2ca892)
 
-
 Stop the capture once done.
+
+## RESULT:
+Web browser artifacts and email headers were successfully analyzed using Wireshark
 
